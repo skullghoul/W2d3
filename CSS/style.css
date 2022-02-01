@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("../Images/night-5211640_1280.jpeg");
+}
+.nav{
+    padding: 0;
+    text-align: center;
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.nav li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 20px;
+}
+.nav a {
+    color: white;
+}
+.TextM {
+    padding:15px;
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 175px;
+    color: white;
+}
+h1 {
+    font-size: 60px;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+}
